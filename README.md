@@ -1,4 +1,4 @@
 # QR code component
 
 
-### Live Server: "# QR Code Component" 
+### Live Server: https://zeo2011.github.io/QR-Code-Component.github.io/
