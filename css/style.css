@@ -38,6 +38,7 @@ html {
 	width: 35rem;
 	overflow: hidden;
 	margin: 2rem;
+	box-shadow: 0 10px 15px #bdbaba;
 }
 
 .img-container {
